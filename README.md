@@ -1,5 +1,5 @@
 ## <span style="color: blue;">SUMMARY</span>
-Je m’appelle KOUMASSOU Sètondji Marie-Josué Aldric, technicien en production et santé animale et titulaire d'un master en génétique. Je suis également data enthusiast allant du néttoyage à la réalisation d'analyse.
+Je m’appelle KOUMASSOU Sètondji Marie-Josué Aldric, technicien en production et santé animale et titulaire d'un master en génétique et biologie moléculaire. Je suis également data enthusiast allant du néttoyage à la réalisation d'analyse.
 ## <span style="color: blue;">CONTACT</span>
 - Mail: [koumassoualdric@gmail.com]
 - Télephone: +229 0164281263
